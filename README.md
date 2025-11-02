@@ -6,83 +6,64 @@
 
 ---
 
-### the journey so far
+### the experiment
 
-started trying to code. built one project with AI help.
+built my first project two weeks ago.
 
-realized: i don't like coding. i like the design/creative side.
+now i'm testing different paths:
+- coding (do i like the logic/problem-solving?)
+- design (do i like the visual/creative side?)
+- no-code (do i like building fast without syntax?)
 
-so i'm pivoting to ui/ux design + no-code tools.
+giving myself 4 weeks to try each properly.
 
-this is me figuring it out in public.
-
----
-
-### what i'm learning now
-
-**design:**
-- ui/ux fundamentals (typography, color, layout)
-- figma (design tool)
-- framer (no-code website builder)
-
-**philosophy:**
-- it's okay to try something and realize it's not for you
-- pivoting isn't failing, it's learning
-- you find yourself by doing, not thinking
+then i'll know.
 
 ---
 
 ### what i've built
 
-**[content learning tracker](https://github.com/kai-prvn/content-learning-tracker)** - oct 2025
+**[content learning tracker](https://github.com/kai-prvn/content-learning-tracker)** - oct 2025  
+note-taking app with spaced repetition  
+built with AI + React  
+learned: shipping > thinking about shipping
 
-my first project. used AI + React to build it.  
-learned: shipping something > perfect plans  
-also learned: i don't actually like coding
-
-**[framer projects coming soon]**  
-redesigning and rebuilding things without code  
-focusing on design, not syntax
+**[more projects coming as i experiment]**
 
 ---
 
 ### what i believe
 
 - you learn by doing, not preparing
-- using AI/no-code isn't cheating, it's being smart
-- it's okay to pivot when you realize something isn't for you
-- design matters more than perfect code
-- find yourself by creating, not consuming
+- it's okay to not know your path yet
+- trying > overthinking
+- using tools (AI, no-code) is smart
+- figure yourself out by creating, not consuming
 
 ---
 
-### current focus
+### currently
 
 **learning:**
-- ui/ux design (figma, design systems, user experience)
-- framer (building beautiful websites without code)
-- making things that don't look like shit
+- react/frontend (understanding how code works)
+- figma/ui-ux (exploring design)
+- framer/no-code (trying alternatives)
 
 **building:**
-- portfolio in framer
-- redesigning my projects to actually look good
-- shipping design work
+- experimenting with different types of projects
+- posting progress publicly
+- figuring out what clicks
 
-**figuring out:**
-- what kind of designer i want to be
-- what problems i want to solve
-- how to turn this into income
-
----
-
-### open to
-
-- freelance design work (figma designs, framer builds)
-- ui/ux design internships (remote preferred)
-- feedback on my work (be brutally honest)
-- connecting with other designers learning in public
+**open to:**
+- feedback on work
+- learning from others
+- opportunities to try different things
+- connecting with people also figuring it out
 
 ---
 
 💡 **do what inspires**
+
+(still figuring out what that is - that's the point)
+
 📍 india
